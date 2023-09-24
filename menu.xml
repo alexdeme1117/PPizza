@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<food>
+  <name>a</name>
+  <price>a</price>
+  <img>a</img>
+  <description>a</description>
+
+  <name>Hawaii</name>
+  <price>2500</price>
+  <img>url</img>
+  <description>The Best Pizza ever</description>
+
+  <name>Margherita</name>
+  <price>1000</price>
+  <img>url2</img>
+  <description>The most basic pizza</description>
+
+  <name>Prosciutto</name>
+  <price>1500</price>
+  <img>url3</img>
+  <description>Pizza with some ham</description>
+
+  <name>Frutti di Mare</name>
+  <price>2500</price>
+  <img>url4</img>
+  <description>Pizza straight from the sea</description>
+
+  <name>Quattro Formaggi</name>
+  <price>2000</price>
+  <img>url5</img>
+  <description>Pizza with a lot of cheese</description>
+
+  <name>Bismarck</name>
+  <price>1500</price>
+  <img>url6</img>
+  <description>Pizza with eggs</description>
+</food>
