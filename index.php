@@ -15,6 +15,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <table ID="Tab" border="0" cellpadding="5">
   <tr>
     <td ID="menu-logo">
+      <img ID="logo" src="./chef.png">
       <b ID="Bold">PPizza</b>
     </td>
     <td ID="menu-sales">
@@ -37,6 +38,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </td>
   </tr>
 </table>
-<script language="JScript" src="menu.js"></script>
+<div ID="mbox">
+  <script language="JScript" src="menu.js"></script>
+</div>
 </body>
 </html>
