@@ -29,7 +29,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <input type="text" name="txt" ID="txt" list="pizzak" placeholder="Pizzad" onkeyup="showHint(this.value);">
   
         <datalist id="pizzak">
-          <option value="teszt">
+          <!-- options -->
         </datalist>
   
         <input type="submit" ID="btn">
