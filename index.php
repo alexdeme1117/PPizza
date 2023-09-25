@@ -3,7 +3,6 @@
   <title>pizzarendeles</title>
   <link rel="icon" href="pizza.ico" type="image/x-icon">
   <link rel="stylesheet" href="ppizza.css">
-  <script language="JScript" src="hint.js"></script>
   <script language="JScript" src="cookie.js"></script>
 </head>
 <body onload="getLocation()">
@@ -30,7 +29,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <input type="text" name="txt" ID="txt" list="pizzak" placeholder="Pizzad" onkeyup="showHint(this.value);">
   
         <datalist id="pizzak">
-          <option ID="pizza" value="">
+          <option value="teszt">
         </datalist>
   
         <input type="submit" ID="btn">
