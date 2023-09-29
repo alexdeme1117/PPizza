@@ -16,6 +16,7 @@ h1, h3 {
 #mbox {
 	width: 25%;
 	background-color: darkred;
+	padding-left: 5%;
 }
 #btn, #txt, #nev {
 	font-size: xx-large;
