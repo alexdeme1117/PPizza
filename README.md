@@ -1,6 +1,6 @@
 # PPizza
 **We deliver pizzaz**
-_This is the template of the website_
+> _This is the template of the website_
 ## Our team:
 + Walter White - cook,
 + Shrek - pizzaboi,
