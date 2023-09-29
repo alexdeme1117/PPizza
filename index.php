@@ -27,7 +27,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <td ID="menu-order">
       <form action="./order.php" method="post">
         <input type="text" name="nev" ID="nev" placeholder="Neved">
-        <input type="text" name="txt" ID="txt" list="pizzak" placeholder="Pizzad" onkeyup="showHint(this.value);">
+        <input type="text" name="txt" ID="txt" list="pizzak" placeholder="Pizzad">
   
         <datalist id="pizzak">
           <!-- options -->
